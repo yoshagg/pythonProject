@@ -1,0 +1,9 @@
+fox:20
+fox:20
+fox:20
+fox:60
+fox:10
+fox:0
+:0
+fox:10
+fox:10
